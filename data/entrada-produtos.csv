@@ -1,457 +1,463 @@
-codigo-fornecedor,data-entrada
-BX031,17/04/2024
-BX123,17/04/2024
-BX216,17/04/2024
-BX226,17/04/2024
-BX239,17/04/2024
-BX327,04/09/2024
-BX347,17/04/2024
-BX377,02/09/2024
-BX417,27/05/2024
-BX424,17/04/2024
-BX426,17/04/2024
-BX427,17/04/2024
-BX428,17/04/2024
-BX436,17/04/2024
-BX456,17/04/2024
-BX458,17/04/2024
-BX459,17/04/2024
-BX474,17/04/2024
-BX483,17/04/2024
-BX484,17/04/2024
-BX495,17/04/2024
-BX506,17/04/2024
-BX508,17/04/2024
-BX513,17/04/2024
-BX513,27/05/2024
-BX513,02/09/2024
-BX523,17/04/2024
-BX526,17/04/2024
-BX527,17/04/2024
-BX531,17/04/2024
-BX532,02/09/2024
-BX533,17/04/2024
-BX536,17/04/2024
-BX539,17/04/2024
-BX543,17/04/2024
-BX544,17/04/2024
-BX545,17/04/2024
-BX547,17/04/2024
-BX549,17/04/2024
-BX553,17/04/2024
-BX557,17/04/2024
-BX569,17/04/2024
-BX572,17/04/2024
-BX573,17/04/2024
-BX574,02/09/2024
-BX576,17/04/2024
-BX577,17/04/2024
-BX581,17/04/2024
-BX583,17/04/2024
-BX583,27/05/2024
-BX583,02/09/2024
-BX584,17/04/2024
-BX587,17/04/2024
-BX590,02/09/2024
-BX593,17/04/2024
-BX599,17/04/2024
-BX604,17/04/2024
-BX613,17/04/2024
-BX614,17/04/2024
-BX614,02/09/2024
-BX615,17/04/2024
-BX616,17/04/2024
-BX617,02/09/2024
-BX622,02/09/2024
-BX623,17/04/2024
-BX627,17/04/2024
-BX645,17/04/2024
-BX647,27/05/2024
-BX651,17/04/2024
-BX652,17/04/2024
-BX654,02/09/2024
-BX680,04/09/2024
-BX682,17/04/2024
-BX684,17/04/2024
-BX688,02/09/2024
-BX692,17/04/2024
-BX693,17/04/2024
-BX695,17/04/2024
-BX698,17/04/2024
-BX707,02/09/2024
-BX722,02/09/2024
-BX737,02/09/2024
-BX741,17/04/2024
-BX744,02/09/2024
-BX752,17/04/2024
-BX753,17/04/2024
-BX753,02/09/2024
-BX759,17/04/2024
-BX769,02/09/2024
-BX771,27/05/2024
-BX783,02/09/2024
-BX784,17/04/2024
-BX786,17/04/2024
-BX790,17/04/2024
-BX791,17/04/2024
-BX799,17/04/2024
-BX802,17/04/2024
-BX804,02/09/2024
-BX809,17/04/2024
-BX811,02/09/2024
-BX813,02/09/2024
-BX815,17/04/2024
-BX824,17/04/2024
-BX826,17/04/2024
-BX826,27/05/2024
-BX827,17/04/2024
-BX828,02/09/2024
-BX829,17/04/2024
-BX829,27/05/2024
-BX831,17/04/2024
-BX834,17/04/2024
-BX836,02/09/2024
-BX848,02/09/2024
-BX849,02/09/2024
-BX850,02/09/2024
-BX851,02/09/2024
-BX861,02/09/2024
-BX862,02/09/2024
-BX863,02/09/2024
-BX867,02/09/2024
-BX868,02/09/2024
-BX869,02/09/2024
-BX870,02/09/2024
-BX881,02/09/2024
-BX884,02/09/2024
-BX887,02/09/2024
-BX890,02/09/2024
-BX892,02/09/2024
-BX893,02/09/2024
-BX901,02/09/2024
-BX907,02/09/2024
-BX909,02/09/2024
-BX912,02/09/2024
-CH044,17/04/2024
-CH065,27/05/2024
-CH074,17/04/2024
-CH074,27/05/2024
-CH080,27/05/2024
-CH082,02/09/2024
-CH083,02/09/2024
-CH084,27/05/2024
-CH085,02/09/2024
-CH090,27/05/2024
-CH093,17/04/2024
-CH093,02/09/2024
-CH095,27/05/2024
-CH095,02/09/2024
-CH097,27/05/2024
-CH097,02/09/2024
-CH098,02/09/2024
-CH101,02/09/2024
-CH104,27/05/2024
-CH106,27/05/2024
-CH106,02/09/2024
-CH110,27/05/2024
-CH111,27/05/2024
-CH111,02/09/2024
-CH115,17/04/2024
-CH117,27/05/2024
-CH117,02/09/2024
-CH126,17/04/2024
-CH127,17/04/2024
-CH127,27/05/2024
-CH127,02/09/2024
-CH132,02/09/2024
-CH133,02/09/2024
-CH134,02/09/2024
-CH135,02/09/2024
-CH136,02/09/2024
-CH139,02/09/2024
-CHT003,17/04/2024
-CL009,17/04/2024
-CL009,27/05/2024
-CL015,17/04/2024
-CL019,27/05/2024
-CL020,02/09/2024
-CL021,02/09/2024
-CL022,02/09/2024
-CL023,02/09/2024
-CL024,02/09/2024
-CL026,02/09/2024
-CPI039,27/05/2024
-CTG003,02/09/2024
-CTP013,27/05/2024
-CX015,02/09/2024
-CXF004,17/04/2024
-CXF004,02/09/2024
-CXF005,17/04/2024
-CXF009,17/04/2024
-CXF014,17/04/2024
-CXF014,02/09/2024
-CXF017,17/04/2024
-CXF019,17/04/2024
-CXF023,02/09/2024
-CXF026,02/09/2024
-CXF033,02/09/2024
-CXF034,02/09/2024
-CXF035,02/09/2024
-CXL001,02/09/2024
-CXP018,17/04/2024
-FL008,27/05/2024
-IM014,17/04/2024
-IM025,17/04/2024
-IM025,02/09/2024
-IM026,17/04/2024
-IM039,17/04/2024
-IM048,17/04/2024
-IM056,17/04/2024
-IM060,17/04/2024
-IM064,17/04/2024
-IM068,17/04/2024
-IM068,02/09/2024
-IM070,17/04/2024
-IM071,02/09/2024
-IM078,17/04/2024
-IM079,17/04/2024
-IM084,17/04/2024
-IM090,17/04/2024
-IM091,02/09/2024
-IM092,17/04/2024
-IM095,17/04/2024
-IM096,17/04/2024
-IM097,17/04/2024
-IM099,17/04/2024
-IM100,17/04/2024
-IM102,17/04/2024
-IM103,17/04/2024
-IM107,17/04/2024
-IM110,17/04/2024
-IM115,17/04/2024
-IM117,17/04/2024
-IM119,17/04/2024
-IM119,27/05/2024
-IM120,17/04/2024
-IM120,02/09/2024
-IM121,02/09/2024
-IM127,17/04/2024
-IM135,02/09/2024
-IM136,17/04/2024
-IM136,02/09/2024
-IM137,17/04/2024
-IM137,02/09/2024
-IM138,02/09/2024
-IM139,17/04/2024
-IM139,02/09/2024
-IM140,17/04/2024
-IM140,02/09/2024
-IM145,17/04/2024
-IM147,02/09/2024
-IM148,17/04/2024
-IM148,02/09/2024
-IM149,17/04/2024
-IM149,02/09/2024
-IM150,17/04/2024
-IM150,02/09/2024
-IM151,17/04/2024
-IM151,02/09/2024
-IM154,02/09/2024
-IM155,02/09/2024
-IM157,02/09/2024
-IM158,02/09/2024
-IM159,02/09/2024
-IM160,02/09/2024
-IM171,02/09/2024
-IM172,02/09/2024
-IM173,02/09/2024
-IM180,02/09/2024
-IM202,17/04/2024
-IMP017,17/04/2024
-IMR003,17/04/2024
-IMR004,17/04/2024
-IMR008,17/04/2024
-IMR009,17/04/2024
-MCX001,02/09/2024
-MO002,02/09/2024
-MO015,17/04/2024
-MO015,02/09/2024
-MO016,17/04/2024
-MO016,02/09/2024
-MO018,17/04/2024
-MO018,02/09/2024
-MO019,17/04/2024
-MO020,17/04/2024
-MO021,17/04/2024
-MO022,17/04/2024
-MO039,17/04/2024
-MO039,02/09/2024
-MO040,17/04/2024
-MO041,17/04/2024
-MO041,02/09/2024
-MO051,02/09/2024
-MO052,02/09/2024
-MO054,17/04/2024
-MO056,17/04/2024
-MO061,17/04/2024
-MO062,17/04/2024
-MO063,17/04/2024
-MO063,27/05/2024
-MO066,17/04/2024
-MO066,27/05/2024
-MO067,17/04/2024
-MO072,27/05/2024
-MO072,02/09/2024
-MO073,02/09/2024
-MO087,17/04/2024
-MO090,17/04/2024
-MO090,02/09/2024
-MO095,02/09/2024
-MO096,02/09/2024
-MO097,02/09/2024
-MO098,02/09/2024
-MO099,02/09/2024
-MO101,17/04/2024
-MO101,27/05/2024
-MO101,02/09/2024
-MO102,17/04/2024
-MO103,02/09/2024
-MO120,02/09/2024
-MO122,02/09/2024
-MO123,02/09/2024
-MO125,02/09/2024
-MO126,02/09/2024
-MO128,02/09/2024
-MO131,02/09/2024
-MO132,02/09/2024
-MP014,17/04/2024
-MP015,02/09/2024
-MP016,17/04/2024
-MP024,17/04/2024
-MP024,27/05/2024
-MP027,17/04/2024
-MP029,17/04/2024
-MP031,17/04/2024
-MP032,17/04/2024
-MP034,17/04/2024
-MP035,17/04/2024
-MP035,02/09/2024
-MP037,17/04/2024
-MP037,02/09/2024
-MP039,17/04/2024
-MP042,17/04/2024
-MP043,17/04/2024
-MP044,17/04/2024
-MP045,17/04/2024
-MP046,17/04/2024
-MP047,17/04/2024
-MP047,27/05/2024
-MP050,17/04/2024
-MP050,02/09/2024
-MP051,17/04/2024
-MP054,17/04/2024
-MP057,02/09/2024
-MP064,02/09/2024
-MP067,02/09/2024
-PC008,27/05/2024
-PC009,17/04/2024
-PC009,27/05/2024
-PC011,17/04/2024
-PC011,04/09/2024
-PC012,17/04/2024
-PC012,04/09/2024
-PC013,17/04/2024
-PC014,17/04/2024
-PC015,17/04/2024
-PC016,17/04/2024
-PC017,17/04/2024
-PCR002,17/04/2024
-PCR005,17/04/2024
-PCR006,17/04/2024
-PCR006,27/05/2024
-PCR048,27/05/2024
-PG005,02/09/2024
-PL030,17/04/2024
-PLF004,27/05/2024
-PT020,17/04/2024
-PT025,17/04/2024
-PT026,17/04/2024
-PT030,17/04/2024
-PTP007,17/04/2024
-QT002,27/05/2024
-QT008,02/09/2024
-QT009,02/09/2024
-QT010,02/09/2024
-QT011,02/09/2024
-RE001,02/09/2024
-RE002,02/09/2024
-RE003,02/09/2024
-RE004,02/09/2024
-RE005,02/09/2024
-RE006,02/09/2024
-RE007,02/09/2024
-RE010,02/09/2024
-TG015,17/04/2024
-TG030,17/04/2024
-TG040,17/04/2024
-TG040,27/05/2024
-TG041,17/04/2024
-TG092,17/04/2024
-TG143,17/04/2024
-TG164,17/04/2024
-TG165,17/04/2024
-TG165,27/05/2024
-TG178,17/04/2024
-TG179,17/04/2024
-TG196,17/04/2024
-TG201,17/04/2024
-TG218,17/04/2024
-TG220,17/04/2024
-TG249,27/05/2024
-TG253,17/04/2024
-TGE001,02/09/2024
-TGE002,02/09/2024
-TGE003,02/09/2024
-TGE004,02/09/2024
-TGE005,02/09/2024
-TGE008,02/09/2024
-TGE009,02/09/2024
-TGE014,02/09/2024
-TGE015,02/09/2024
-TGE016,02/09/2024
-TGE017,02/09/2024
-TGE018,02/09/2024
-TGE025,02/09/2024
-TGE026,02/09/2024
-TGE027,02/09/2024
-TGE028,17/04/2024
-TGE028,02/09/2024
-TGE029,17/04/2024
-TGE029,02/09/2024
-TGE030,02/09/2024
-TGE031,02/09/2024
-TGM004,17/04/2024
-TGM008,17/04/2024
-TGM012,17/04/2024
-TGM015,17/04/2024
-TGM018,17/04/2024
-VL039,27/05/2024
-VL050,27/05/2024
-VL050,02/09/2024
-VL052,02/09/2024
-VL053,17/04/2024
-VL053,27/05/2024
-VL054,02/09/2024
-VL055,02/09/2024
-VL056,02/09/2024
-VL058,17/04/2024
-VL058,27/05/2024
-VL059,17/04/2024
-VL059,27/05/2024
-VL060,02/09/2024
-VS019,02/09/2024
-VS022,02/09/2024
-VSCGM002,17/04/2024
-VSCGM003,17/04/2024
-VSCGM004,17/04/2024
-VSCGM005,17/04/2024
+data-entrada,descricao,quantidade,codigo-fornecedor
+17/04/2024,Bandeja Amor Mora 25X25X8,1,BD009
+02/09/2024,Bloco ima Vida cafe,1,BLIM013
+02/09/2024,Bloco ima Frida Suportar,1,BLIM016
+17/04/2024,Bloco Retangular Direcao e Mais Importante 6x15 Pinus,1,BRP001
+17/04/2024,Bloco Retangular Cantinho do Cafe 6x15 Pinus,1,BRP002
+17/04/2024,Bloco Retangular Felicidade Caminho 6x15 Pinus,1,BRP007
+17/04/2024,Box Hoje 10x15,1,BX031
+17/04/2024,Box Familia Vida Amor  25X25,1,BX123
+17/04/2024,Box Seja Feliz 50x100,1,BX216
+17/04/2024,Box Amor 8X30,1,BX226
+17/04/2024,Box 5 Minutos 8X10,1,BX239
+04/09/2024,Box Nunca nos Falte 30x40,1,BX327
+17/04/2024,Box Nao Ando So 12x12,1,BX347
+02/09/2024,Box Aqui reunimos 40x75,1,BX377
+27/05/2024,Box Todo Amor 12x12,1,BX417
+17/04/2024,Box Passos Caminhos 6X15,1,BX424
+17/04/2024,Box Felicidade Rotina 06X15,1,BX426
+17/04/2024,Box Faco Cafe 6X15,1,BX427
+17/04/2024,Box Acalmar Se 6X15,1,BX428
+17/04/2024,Box Fe nao cansa 8X10,1,BX436
+17/04/2024,Box Oracao dos Filhos 15x20,1,BX456
+17/04/2024,Box Filhos 10x15,1,BX458
+17/04/2024,Box Vida milagres 12x30,1,BX459
+17/04/2024,Box Vai ficar tudo bem 8x10,1,BX474
+17/04/2024,Box Santo Anjo 10x15,1,BX483
+17/04/2024,Box Espirito Santo 25x25,1,BX484
+17/04/2024,Box Gratidao 8x10,1,BX495
+17/04/2024,Box Buda Agradecer 12x30,1,BX506
+17/04/2024,Box A Meta 8x10,1,BX508
+17/04/2024,Box Mude Borboleta 25x25,1,BX513
+27/05/2024,Box Mude Borboleta 25x25,2,BX513
+02/09/2024,Box Mude Borboleta 25x25,1,BX513
+17/04/2024,Box Essencial 4x12,1,BX523
+17/04/2024,Box Livrai me 8x10,1,BX526
+17/04/2024,Box Mulher Asas 12x12,1,BX527
+17/04/2024,Box No Teu Colo 10x15,1,BX531
+02/09/2024,Box Nossa Senhora Aparecida Color 25x25,1,BX532
+17/04/2024,Box Sempre me guarde 12x12,1,BX533
+17/04/2024,Box Use suas asas 12x12,1,BX536
+17/04/2024,Box Ja disse que te amo 04x12,1,BX539
+17/04/2024,Box Gente existe 04x12,1,BX543
+17/04/2024,Box Voce universo 04x12,1,BX544
+17/04/2024,Box Urgente importante 04x12,1,BX545
+17/04/2024,Box Ore espere 04x12,1,BX547
+17/04/2024,Box Tenho em mim 04x12,1,BX549
+17/04/2024,Box Seja como flor 15x20,1,BX553
+17/04/2024,Box Anjo da guarda 15x20,1,BX557
+17/04/2024,Box Buda Dourado 15x20,1,BX569
+17/04/2024,Box Alegria 10x15,1,BX572
+17/04/2024,Box Somos feitos 10x15,1,BX573
+02/09/2024,Box Fe amor cafe 10x15,1,BX574
+17/04/2024,Box Acreditar 6X15,1,BX576
+17/04/2024,Box Coragem 6X15,1,BX577
+17/04/2024,Box Primeira Vez 04X12,1,BX581
+17/04/2024,Box Que a gente tenha 50x75,1,BX583
+27/05/2024,Box Que a gente tenha 50x75,1,BX583
+02/09/2024,Box Que a gente tenha 50x75,1,BX583
+17/04/2024,Box Primavere se 25x25,1,BX584
+17/04/2024,Box Entrego Confio 8x30,1,BX587
+02/09/2024,Box Acontecer hoje 8x35,1,BX590
+17/04/2024,Box Cuide Bem 4x12,1,BX593
+17/04/2024,Box Pai Nosso 12x12,1,BX599
+17/04/2024,Box Anjos Disfarcados 6X15,1,BX604
+17/04/2024,Box Bons Pensamentos 8x35,1,BX613
+17/04/2024,Box Coisas Boas 8x35,1,BX614
+02/09/2024,Box Coisas Boas 8x35,1,BX614
+17/04/2024,Box Olho Grego 25x25,1,BX615
+17/04/2024,Box Familia Significado 25x25,1,BX616
+02/09/2024,Box Mulher Cafe  8x20,1,BX617
+02/09/2024,Box Cantinho do Cafe 15x20,1,BX622
+17/04/2024,Box Voar 25x25,1,BX623
+17/04/2024,Box Pequenas coisas 4x12,1,BX627
+17/04/2024,Box Ja Era Amor 6X15,1,BX645
+27/05/2024,Box Amor Passarinhos 10x15,1,BX647
+17/04/2024,Box Voce Melhor Lugar 8x10,1,BX651
+17/04/2024,Box So Se Vive 4x12,1,BX652
+02/09/2024,Box Toda Familia Historia Branco 30x50,1,BX654
+04/09/2024,Box Nunca nos Falte 30x40 Branco,1,BX680
+17/04/2024,Box Amor Escrita preta 8x30,1,BX682
+17/04/2024,Box Paz  Escrita preta 8x30,1,BX684
+02/09/2024,Box Sao Francisco 15x20,1,BX688
+17/04/2024,Box Seja Grato 12x12,1,BX692
+17/04/2024,Box E Junto Dos Bons 6x15,1,BX693
+17/04/2024,Box E Mais Divertido 6x15,1,BX695
+17/04/2024,Box Bicicleta 15x20,1,BX698
+02/09/2024,Box Vida Cafe 8x10,1,BX707
+02/09/2024,Box Amor Cafe 15x20,1,BX722
+02/09/2024,Box NS Gracas 15x20,1,BX737
+17/04/2024,Box Todo dia amo 8x10,1,BX741
+02/09/2024,Box Cafe Tranquilo 15x20,1,BX744
+17/04/2024,Box Mantra eu consigo 4x12,1,BX752
+17/04/2024,Box Fe Cafe cafune 8x10,1,BX753
+02/09/2024,Box Fe Cafe cafune 8x10,1,BX753
+17/04/2024,Box Com voce 8x10,1,BX759
+02/09/2024,Box Viajar Scooter 30x40 Branco,1,BX769
+27/05/2024,Box Gato Livros 15x30,1,BX771
+02/09/2024,Box Contamos Memorias 30x40 Branco,1,BX783
+17/04/2024,Box Cada verso  6x15,1,BX784
+17/04/2024,Box Buda dourado 25x25,1,BX786
+17/04/2024,Box Todos nos juntos 8X10,1,BX790
+17/04/2024,Box Sucesso inevitavel 8X10,1,BX791
+17/04/2024,Box Alma Gemea significado 6X15,1,BX799
+17/04/2024,Box Sempre guarde 12x12,1,BX802
+02/09/2024,Box Cafe boa ideia12x12,1,BX804
+17/04/2024,Box Colhemos Escolhas 8X10,1,BX809
+02/09/2024,Box Familia coracao casa 15x20,1,BX811
+02/09/2024,Box Faz da tua casa 40x60 Branco,1,BX813
+17/04/2024,Box Bem me quero 8X10,1,BX815
+17/04/2024,Box Intuicao 8X10,1,BX824
+17/04/2024,Box Vida Costurar 20X20,1,BX826
+27/05/2024,Box Vida Costurar 20X20,1,BX826
+17/04/2024,Box Historia de amor 10x15,1,BX827
+02/09/2024,Box Recria tua vida 15x20,1,BX828
+17/04/2024,Box Aproveite a jornada 40x60 Branco,1,BX829
+27/05/2024,Box Aproveite a jornada 40x60 Branco,2,BX829
+17/04/2024,Box Anjinho amiguinho 20X20,1,BX831
+17/04/2024,Box Lugar abraco 8x10,1,BX834
+02/09/2024,Box Recria tua vida 30x40 Branco,1,BX836
+02/09/2024,Box Frida Nao te demores 8X10,1,BX848
+02/09/2024,Box Frida Paixao ponte 8x20,1,BX849
+02/09/2024,Box Frida Suportar 10X15,1,BX850
+02/09/2024,Box Frida Relogio 40x60,1,BX851
+02/09/2024,Box Vida 12x30,1,BX861
+02/09/2024,Box Vida 6x15,1,BX862
+02/09/2024,Box Doida 8X10,5,BX863
+02/09/2024,Box Filha mamae 12x12,2,BX867
+02/09/2024,Box Filho mamae 12x12,2,BX868
+02/09/2024,Box Filha papai 12x12,2,BX869
+02/09/2024,Box Filho papai 12x12,2,BX870
+02/09/2024,Box Estar em casa 10X15,1,BX881
+02/09/2024,Box Familia igual 15x20,1,BX884
+02/09/2024,Box Faz da tua casa 8x20,1,BX887
+02/09/2024,Box Filhos acreditam 12x12,1,BX890
+02/09/2024,Box Nesta casa 40x60,1,BX892
+02/09/2024,Box Seja Feliz Branco 50x100,1,BX893
+02/09/2024,Box NS Aparecida 40x60,1,BX901
+02/09/2024,Box Sempre se lembre 8x20,1,BX907
+02/09/2024,Box Sonhos possiveis 10X15,1,BX909
+02/09/2024,Box Seja feliz branco 15x30,1,BX912
+17/04/2024,Chaveiro So o bem entra,1,CH044
+27/05/2024,Chaveiro Gratidao Memoria,2,CH065
+17/04/2024,Chaveiro Sentir,1,CH074
+27/05/2024,Chaveiro Sentir,2,CH074
+27/05/2024,Chaveiro Beija Flor,1,CH080
+02/09/2024,Chaveiro Especial Gato livros,1,CH082
+02/09/2024,Chaveiro Especial Cachorro Amor,1,CH083
+27/05/2024,Chaveiro Especial Filtro dos Sonhos,1,CH084
+02/09/2024,Chaveiro Especial Miados e latidos,1,CH085
+27/05/2024,Chaveiro Especial Leao,2,CH090
+17/04/2024,Chaveiro Especial Olho Grego,1,CH093
+02/09/2024,Chaveiro Especial Olho Grego,3,CH093
+27/05/2024,Chaveiro Especial Somos feitos historias,1,CH095
+02/09/2024,Chaveiro Especial Somos feitos historias,1,CH095
+27/05/2024,Chaveiro Especial Flores Sera,2,CH097
+02/09/2024,Chaveiro Especial Flores Sera,1,CH097
+02/09/2024,Chaveiro Especial Viajar Scooter,1,CH098
+02/09/2024,Chaveiro Especial Pai nosso,1,CH101
+27/05/2024,Chaveiro Especial Amor Pulsar,1,CH104
+27/05/2024,Chaveiro Especial Mao de Fatima,2,CH106
+02/09/2024,Chaveiro Especial Mao de Fatima,1,CH106
+27/05/2024,Chaveiro Especial Estrela feliz,1,CH110
+27/05/2024,Chaveiro Especial Gratidao memoria,2,CH111
+02/09/2024,Chaveiro Especial Gratidao memoria,1,CH111
+17/04/2024,Chaveiro Especial Lar Inteiro,1,CH115
+27/05/2024,Chaveiro Especial Amigos Estrelas,3,CH117
+02/09/2024,Chaveiro Especial Amigos Estrelas,1,CH117
+17/04/2024,Chaveiro Especial Bem me Quero,1,CH126
+17/04/2024,Chaveiro Especial Borboleta Melhor Versao,1,CH127
+27/05/2024,Chaveiro Especial Borboleta Melhor Versao,2,CH127
+02/09/2024,Chaveiro Especial Borboleta Melhor Versao,3,CH127
+02/09/2024,Chaveiro Especial Rosa Pequeno Principe,1,CH132
+02/09/2024,Chaveiro Especial Frida Viva,1,CH133
+02/09/2024,Chaveiro Especial Frida Asas,1,CH134
+02/09/2024,Chaveiro Especial So se ve Pequeno principe,1,CH135
+02/09/2024,Chaveiro Especial Um amigo Pequeno principe,1,CH136
+02/09/2024,Chaveiro Especial Lampada luz,1,CH139
+17/04/2024,Chaveiro Borboleta,1,CHT003
+17/04/2024,Livro Vida Espetacular  G,1,CL009
+27/05/2024,Livro Vida Espetacular  G,1,CL009
+17/04/2024,Livro Flores Sera  P,1,CL015
+27/05/2024,Livro Colecao me conte sua historia  G,1,CL019
+02/09/2024,Livro Aproveite a jornada G,1,CL020
+02/09/2024,Caixa Livro Cha Pequenos Momentos,1,CL021
+02/09/2024,Caixa Livro G BAIXA Frida Viva,1,CL022
+02/09/2024,Caixa Livro G BAIXA So se ve Pequeno Principe,1,CL023
+02/09/2024,Caixa Livro P Tu te tornas Pequeno principe,1,CL024
+02/09/2024,Caixa Livro G BAIXA - Receitas Memorias,1,CL026
+27/05/2024,Caixinha Costura 13X13 - 6mm,1,CPI039
+02/09/2024,Caixa Com Tampa G Cafe Ideia,1,CTG003
+27/05/2024,Mini Vaso Casinha Grande amor - Pinus 10x6 cm,1,CTP013
+02/09/2024,Caixa Colecao  Que se leva da vida,1,CX015
+17/04/2024,Caixa fosforo Flores Sera,1,CXF004
+02/09/2024,Caixa fosforo Flores Sera,1,CXF004
+17/04/2024,Caixa fosforo Cogumelo,1,CXF005
+17/04/2024,Caixa fosforo Janela Sonhadores,1,CXF009
+17/04/2024,Caixa fosforo Beija Flor,1,CXF014
+02/09/2024,Caixa fosforo Beija Flor,1,CXF014
+17/04/2024,Caixa fosforo Fita Melhores Momentos,1,CXF017
+17/04/2024,Caixa fosforo Buda Dourado,1,CXF019
+02/09/2024,Caixa fosforo Delicias e memorias,1,CXF023
+02/09/2024,Caixa fosforo Aproveite a jornada,1,CXF026
+02/09/2024,Caixa fosforo Frida Viva,2,CXF033
+02/09/2024,Caixa fosforo So se ve Pequeno principe,1,CXF034
+02/09/2024,Caixa fosforo Tu te tornas Pequeno principe,1,CXF035
+02/09/2024,Caixa com Tampa G Memorias para Sempre,1,CXL001
+17/04/2024,Caixa De Cha Faca Mais Feliz,1,CXP018
+27/05/2024,Flamula Sempre me rege,2,FL008
+17/04/2024,Ima Senhor dai me cafe,2,IM014
+17/04/2024,Ima The Vinho Triplica,1,IM025
+02/09/2024,Ima The Vinho Triplica,5,IM025
+17/04/2024,Ima Com o Passar Dos Vinhos,1,IM026
+17/04/2024,Ima So o bem Fica,1,IM039
+17/04/2024,Ima Entrego confio,1,IM048
+17/04/2024,Ima Faco Questao,1,IM056
+17/04/2024,Ima Que a felicidade vire rotina,1,IM060
+17/04/2024,Ima Amigos Risadas,1,IM064
+17/04/2024,Ima Viajar e cuidar da alma,1,IM068
+02/09/2024,Ima Viajar e cuidar da alma,1,IM068
+17/04/2024,Ima O amor mora aqui,1,IM070
+02/09/2024,Ima Ser Feliz,3,IM071
+17/04/2024,Ima Coragem,1,IM078
+17/04/2024,Ima Familia Vida Amor,1,IM079
+17/04/2024,Ima Sinto muito Hoponopono,1,IM084
+17/04/2024,Ima Mao Patinha,1,IM090
+02/09/2024,Ima Amigos Estrelas,1,IM091
+17/04/2024,Ima Nao se Avexe,1,IM092
+17/04/2024,Ima Cafe Eterno,1,IM095
+17/04/2024,Ima Casa Pedacinhos,1,IM096
+17/04/2024,Ima Alma Tempera,1,IM097
+17/04/2024,Ima Coisas Magicas,1,IM099
+17/04/2024,Ima 5 Minutos,1,IM100
+17/04/2024,Ima Inspira,1,IM102
+17/04/2024,Ima Sorte Trabalho,1,IM103
+17/04/2024,Ima Use suas asas,1,IM107
+17/04/2024,Ima Mantra Abundancia,1,IM110
+17/04/2024,Ima Seja Feliz,1,IM115
+17/04/2024,Ima Estrela Feliz,1,IM117
+17/04/2024,Ima Gratidao e Memoria,1,IM119
+27/05/2024,Ima Gratidao e Memoria,1,IM119
+17/04/2024,Ima Vo Acucar,1,IM120
+02/09/2024,Ima Vo Acucar,1,IM120
+02/09/2024,Ima Viver Brindar,1,IM121
+17/04/2024,Ima Amor Lar,1,IM127
+02/09/2024,Ima Melhor pai,1,IM135
+17/04/2024,Ima Melhor mae,1,IM136
+02/09/2024,Ima Melhor mae,2,IM136
+17/04/2024,Ima Melhor dinda,1,IM137
+02/09/2024,Ima Melhor dinda,2,IM137
+02/09/2024,Ima Melhor dindo,1,IM138
+17/04/2024,Ima Melhor Vo - M,1,IM139
+02/09/2024,Ima Melhor Vo - M,2,IM139
+17/04/2024,Ima Melhor Vo - H,1,IM140
+02/09/2024,Ima Melhor Vo - H,1,IM140
+17/04/2024,Ima Time,1,IM145
+02/09/2024,Ima Professor,5,IM147
+17/04/2024,Ima Melhor amiga,1,IM148
+02/09/2024,Ima Melhor amiga,1,IM148
+17/04/2024,Ima Melhor amigo,1,IM149
+02/09/2024,Ima Melhor amigo,1,IM149
+17/04/2024,Ima Melhor Irma do mundo,1,IM150
+02/09/2024,Ima Melhor Irma do mundo,1,IM150
+17/04/2024,Ima Melhor Irmao do mundo,1,IM151
+02/09/2024,Ima Melhor Irmao do mundo,1,IM151
+02/09/2024,Ima Somos feitos mudanca,3,IM154
+02/09/2024,Ima Colhemos escolhas,1,IM155
+02/09/2024,Ima Vovos estrelas,1,IM157
+02/09/2024,Ima Delicias e Memorias,1,IM158
+02/09/2024,Ima Casa de Vo,1,IM159
+02/09/2024,Ima Comer rezar amar,1,IM160
+02/09/2024,Ima Vida,1,IM171
+02/09/2024,Ima Sonhe acredite,1,IM172
+02/09/2024,Ima Amigo melhores coisas,1,IM173
+02/09/2024,Ima Filhos acreditam,1,IM180
+17/04/2024,Ima Pequenos Detalhes,1,IM202
+17/04/2024,Ima Pinus Coracao Bate Feliz,1,IMP017
+17/04/2024,"Ima Retangular Amor 5x15,5",1,IMR003
+17/04/2024,"Ima Retangular Ohana 5x15,5",1,IMR004
+17/04/2024,"Ima Retangular Comer Rezar Amar 5x15,5",1,IMR008
+17/04/2024,"Ima Retangular Com Amor Sempre 5x15,5",1,IMR009
+02/09/2024,Mini Caixa Articulada 12x8x4  - Pequeno Principe,1,MCX001
+02/09/2024,"Caderneta G Troque os Grilos 15,2 X 21,8  80Fls Pautadas",1,MO002
+17/04/2024,"Caderneta G Somos Feitos Mudancas 15,2X 21,8 - 80Fls Sem Pauta",1,MO015
+02/09/2024,"Caderneta G Somos Feitos Mudancas 15,2X 21,8 - 80Fls Sem Pauta",1,MO015
+17/04/2024,"Caderneta G Fonte de Magia  15,2X 21,8 - 80Fls Sem Pauta",1,MO016
+02/09/2024,"Caderneta G Fonte de Magia  15,2X 21,8 - 80Fls Sem Pauta",1,MO016
+17/04/2024,"Caderneta G Buda Dourado 15,2X 21,8 - 80Fls Sem Pauta",2,MO018
+02/09/2024,"Caderneta G Buda Dourado 15,2X 21,8 - 80Fls Sem Pauta",2,MO018
+17/04/2024,"Caderneta G Janela Sonhadores 15,2X 21,8 - 80Fls Sem Pauta",1,MO019
+17/04/2024,"Caderneta G Tudo Existe Sonhos 15,2X 21,8 - 80Fls Pautadas",1,MO020
+17/04/2024,"Caderneta P Aqui So Bem Fica 11,3x15,2 - 80Fls Sem Pauta",1,MO021
+17/04/2024,"Caderneta P 5 Minutos 11,3x15,2 - 80Fls Sem Pauta",1,MO022
+17/04/2024,"Caderneta G Raposas Cogumelos 15,2X 21,8 - 80Fls Pautadas",1,MO039
+02/09/2024,"Caderneta G Raposas Cogumelos 15,2X 21,8 - 80Fls Pautadas",1,MO039
+17/04/2024,"Caderneta G Cogumelos 15,2X 21,8 - 80Fls Pautadas",1,MO040
+17/04/2024,"Caderneta G Flores Sera 15,2X 21,8 - 80Fls Pautadas",1,MO041
+02/09/2024,"Caderneta G Flores Sera 15,2X 21,8 - 80Fls Pautadas",1,MO041
+02/09/2024,"Caderneta G Delicias e Memorias 15,2X 21,8 - 80Fls Pautadas",1,MO051
+02/09/2024,"Caderneta G Receitinhas 15,2X 21,8 - 80Fls Pautadas",1,MO052
+17/04/2024,"Caderneta G Sonhe Acredite 15,2X 21,8 - 80Fls Pautadas",1,MO054
+17/04/2024,"Caderneta G Viajar Scooter 15,2X 21,8 - 80Fls Pontadas",1,MO056
+17/04/2024,"Caderneta P Cachorro Amor 11,3x15,2 - 80Fls Sem Pauta",1,MO061
+17/04/2024,"Caderneta G Gato 15,2X 21,8 - 80Fls Pautadas",1,MO062
+17/04/2024,"Caderneta P Gato  11,3x15,2 - 80Fls Sem Pauta",1,MO063
+27/05/2024,"Caderneta P Gato  11,3x15,2 - 80Fls Sem Pauta",1,MO063
+17/04/2024,"Caderneta G Leao 15,2X 21,8 - 80Fls Pautadas",1,MO066
+27/05/2024,"Caderneta G Leao 15,2X 21,8 - 80Fls Pautadas",2,MO066
+17/04/2024,"Caderneta P Leao  11,3x15,2 - 80Fls Sem Pauta",1,MO067
+27/05/2024,"Caderneta G Beija Flor 15,2X 21,8 - 80Fls Pautadas",1,MO072
+02/09/2024,"Caderneta G Beija Flor 15,2X 21,8 - 80Fls Pautadas",1,MO072
+02/09/2024,"Caderneta P Beija Flor  11,3x15,2 - 80Fls Sem Pauta",1,MO073
+17/04/2024,"Caderneta P Balao Curiosidade  11,3x15,2 - 80Fls Sem Pauta",2,MO087
+17/04/2024,"Caderneta P Flores Sera  11,3x15,2 - 80Fls Sem Pauta",1,MO090
+02/09/2024,"Caderneta P Flores Sera  11,3x15,2 - 80Fls Sem Pauta",1,MO090
+02/09/2024,"Caderneta G Pai me conte sua historia 15,2X 21,8 - 80Fls Pautadas",1,MO095
+02/09/2024,"Caderneta G Mae me conte sua historia 15,2X 21,8 - 80Fls Pautadas",1,MO096
+02/09/2024,"Caderneta G VO M me conte sua historia 15,2X 21,8 - 80Fls Pautadas",1,MO097
+02/09/2024,"Caderneta G VO H me conte sua historia 15,2X 21,8 - 80Fls Pautadas",1,MO098
+02/09/2024,"Caderneta G Pai e Mae me contem minha historia 15,2X 21,8 - 80Fls Pautadas",1,MO099
+17/04/2024,"Caderneta G Aproveite a jornada 15,2X 21,8 - 80Fls Pautadas",1,MO101
+27/05/2024,"Caderneta G Aproveite a jornada 15,2X 21,8 - 80Fls Pautadas",2,MO101
+02/09/2024,"Caderneta G Aproveite a jornada 15,2X 21,8 - 80Fls Pautadas",1,MO101
+17/04/2024,"Caderneta G Bem me quero 15,2X 21,8 - 80Fls Pautadas",1,MO102
+02/09/2024,"Caderneta G Vida espetacular 15,2X 21,8 - 80Fls Pautadas",1,MO103
+02/09/2024,"Caderneta G Diario Lembrancas Branco 15,2X 21,8 - 80Fls Sem Pauta",1,MO120
+02/09/2024,"Caderneta G Frida 15,2X 21,8 - 80Fls Pautadas",1,MO122
+02/09/2024,"Caderneta P Frida11,3x15,2 - 80Fls Sem Pauta",1,MO123
+02/09/2024,"Caderneta G O essencial Pequeno principe 15,2X 21,8 - 80Fls Pautadas",1,MO125
+02/09/2024,"Caderneta P Tempo rosa Pequeno principe 11,3x15,2 - 80Fls Sem Pauta",1,MO126
+02/09/2024,"Caderneta G Vida Banquete 15,2X 21,8 - 80Fls Com Pauta",1,MO128
+02/09/2024,"Caderneta G Me leva para Paris  15,2X 21,8 - 80Fls Com Pauta",1,MO131
+02/09/2024,"Caderneta G Tu te tornas Pequeno Principe 15,2X 21,8 - 80Fls Com Pauta",1,MO132
+17/04/2024,Marcador de Pagina Neverland,1,MP014
+02/09/2024,Marcador de Pagina O Essencial,2,MP015
+17/04/2024,Marcador de Pagina Mude De Opiniao,1,MP016
+17/04/2024,Marcador de Pagina Pinoquio,1,MP024
+27/05/2024,Marcador de Pagina Pinoquio,10,MP024
+17/04/2024,Mp Sinto Muito Hoponopono,1,MP027
+17/04/2024,Marcador de Pagina Poste Salmo,1,MP029
+17/04/2024,Marcador de Pagina Voar,1,MP031
+17/04/2024,Marcador de Pagina Pena,1,MP032
+17/04/2024,Marcador de Pagina Tudo Existe Sonhos,1,MP034
+17/04/2024,Marcador de Pagina Palavras Fonte de Magia,1,MP035
+02/09/2024,Marcador de Pagina Palavras Fonte de Magia,1,MP035
+17/04/2024,Marcador de Pagina Somos feitos historias,1,MP037
+02/09/2024,Marcador de Pagina Somos feitos historias,1,MP037
+17/04/2024,Marcador de Pagina Estante Livros,1,MP039
+17/04/2024,Marcador de Pagina Livraria,1,MP042
+17/04/2024,Marcador de Pagina Floricultura,1,MP043
+17/04/2024,Marcador de Pagina  Presentes,1,MP044
+17/04/2024,Marcador de Pagina Gato,1,MP045
+17/04/2024,Marcador de Pagina  Menino Razao,1,MP046
+17/04/2024,Marcador de Pagina  Carrossel,1,MP047
+27/05/2024,Marcador de Pagina  Carrossel,10,MP047
+17/04/2024,Marcador de Pagina Flores Sera,1,MP050
+02/09/2024,Marcador de Pagina Flores Sera,1,MP050
+17/04/2024,Marcador de Pagina Bem me quero,1,MP051
+17/04/2024,Marcador de Pagina Zela por ti,1,MP054
+02/09/2024,Marcador de Pagina Frida Viva,3,MP057
+02/09/2024,Marcador de Pagina Mao amor damos,1,MP064
+02/09/2024,Marcador de Pagina Me leve para Paris,1,MP067
+27/05/2024,Porta Chaves Cafe,1,PC008
+17/04/2024,Porta Chaves Casinha,1,PC009
+27/05/2024,Porta Chaves Casinha,1,PC009
+17/04/2024,Porta Chaves Portinha Lar Sentimento VD,1,PC011
+04/09/2024,Porta Chaves Portinha Lar Sentimento VD,1,PC011
+17/04/2024,Porta Chaves Portinha Nosso Lugar Feliz VM,1,PC012
+04/09/2024,Porta Chaves Portinha Nosso Lugar Feliz VM,1,PC012
+17/04/2024,Porta Chaves Familia Amor,1,PC013
+17/04/2024,Porta Chaves Abundancia,1,PC014
+17/04/2024,Porta Chaves Oracao Da Serenidade,1,PC015
+17/04/2024,Porta Chaves Amor Mora Aqui,1,PC016
+17/04/2024,Porta Chaves Casa De Sentimentos,1,PC017
+17/04/2024,Placa Coracao Aqui tem amor,1,PCR002
+17/04/2024,Placa Coracao Familia,1,PCR005
+17/04/2024,Placa Coracao Seja Feliz,1,PCR006
+27/05/2024,Placa Coracao Seja Feliz,1,PCR006
+27/05/2024,Placa coracao Seja Feliz,1,PCR048
+02/09/2024,Porta Guardanapo Delicias e memorias,2,PG005
+17/04/2024,"Placa Aberto, Fechada Preta",1,PL030
+27/05/2024,Mini Placa Fotos Aqui tem amor,1,PLF004
+17/04/2024,Porta Treco P Voar,1,PT020
+17/04/2024,Porta Treco P So Bem Fica,1,PT025
+17/04/2024,Porta-Treco P Mae  Raizes,1,PT026
+17/04/2024,Porta-Treco P Mantra  Abundancia,1,PT030
+17/04/2024,Porta Treco P Seja como Flor,1,PTP007
+27/05/2024,Mini Vaso Quadrado Ja Disse Que Te Amo 8x8,1,QT002
+02/09/2024,Mini Vaso Quadrado Sao Francisco 8x8,1,QT008
+02/09/2024,Mini Vaso Quadrado NS Aparecida 8x8,1,QT009
+02/09/2024,Mini Vaso Quadrado NS Fatima 8x8,1,QT010
+02/09/2024,Mini Vaso Quadrado NS Gracas 8x8,1,QT011
+02/09/2024,Regua Tu te Tornas 20x5,1,RE001
+02/09/2024,Regua Amor que nao se mede 20x5,25,RE002
+02/09/2024,Regua Imaginacao 20x5,25,RE003
+02/09/2024,Regua Desperta 20x5,10,RE004
+02/09/2024,Regua Gato 20x5,5,RE005
+02/09/2024,Regua Cachorro 20x5,5,RE006
+02/09/2024,Regua Persistencia  20x5,1,RE007
+02/09/2024,Regua Lampada Luz 20x5,5,RE010
+17/04/2024,Tag Amigos Sao Como Estrelas,1,TG015
+17/04/2024,Tag Gratidao e memoria,1,TG030
+17/04/2024,Tag Santo Anjo,1,TG040
+27/05/2024,Tag Santo Anjo,2,TG040
+17/04/2024,Tag Pai Nosso,1,TG041
+17/04/2024,Tag Sinto Muito Hoponopono,1,TG092
+17/04/2024,Tag Olho Grego,1,TG143
+17/04/2024,Tag Sonhos,1,TG164
+17/04/2024,Tag Mude Borboleta,1,TG165
+27/05/2024,Tag Mude Borboleta,2,TG165
+17/04/2024,Tag Gratidao,1,TG178
+17/04/2024,Tag Buda Mantra,1,TG179
+17/04/2024,Tag Sempre Me Guarde,1,TG196
+17/04/2024,Tag  Mao De Fatima,1,TG201
+17/04/2024,Tag  Amor Lar,1,TG218
+17/04/2024,Tag Mantra Abundancia,1,TG220
+27/05/2024,Tag Leao,2,TG249
+17/04/2024,Tag Oracao Santo Anjo,1,TG253
+02/09/2024,Tag Cachorro Lar,2,TGE001
+02/09/2024,Tag Cachorro Felicidade,2,TGE002
+02/09/2024,Tag Gato Lar,2,TGE003
+02/09/2024,Tag Gatos Felicidade,2,TGE004
+02/09/2024,Tag Estrela Sonho,10,TGE005
+02/09/2024,Tag Arvore Aqui Tem Amor,2,TGE008
+02/09/2024,Tag Arvore Ame,2,TGE009
+02/09/2024,Tag Estrela Fartura,2,TGE014
+02/09/2024,Tag Estrela Amizade,2,TGE015
+02/09/2024,Tag Estrela Alegria,2,TGE016
+02/09/2024,Tag Estrela Amor,2,TGE017
+02/09/2024,Tag Estrela Luz,2,TGE018
+02/09/2024,Tag Casinha ginger,2,TGE025
+02/09/2024,Tag Boneco ginger,2,TGE026
+02/09/2024,Tag Cavalinho ginger,2,TGE027
+17/04/2024,Tag Cogumelo cantinho feliz,1,TGE028
+02/09/2024,Tag Cogumelo cantinho feliz,5,TGE028
+17/04/2024,Tag Cogumelo lar,1,TGE029
+02/09/2024,Tag Cogumelo lar,5,TGE029
+02/09/2024,Tag Gnomo magia,2,TGE030
+02/09/2024,Tag Gnomo sorte,2,TGE031
+17/04/2024,Mini Tag Vibe boa,1,TGM004
+17/04/2024,Mini Tag Calma na alma,1,TGM008
+17/04/2024,Mini Tag Andar com fe,1,TGM012
+17/04/2024,Mini Tag Seja grato,1,TGM015
+17/04/2024,Mini Tag Sorrir,1,TGM018
+27/05/2024,Mini Cachepot Vela Com Amor,1,VL039
+27/05/2024,Mini Cachepot Vela Deus e bom,1,VL050
+02/09/2024,Mini Cachepot Vela Deus e bom,1,VL050
+02/09/2024,Mini Cachepot Vela Pai Nosso,1,VL052
+17/04/2024,Mini Cachepot Vela Mao de Fatima,1,VL053
+27/05/2024,Mini Cachepot Vela Mao de Fatima,1,VL053
+02/09/2024,Mini Cachepot Vela NS Aparecida,1,VL054
+02/09/2024,Mini Cachepot Vela NS Gracas,1,VL055
+02/09/2024,Mini Cachepot Vela NS Fatima,1,VL056
+17/04/2024,Mini Cachepot Vela Zela por ti,1,VL058
+27/05/2024,Mini Cachepot Vela Zela por ti,1,VL058
+17/04/2024,Mini Cachepot Vela Gratidao Memoria,1,VL059
+27/05/2024,Mini Cachepot Vela Gratidao Memoria,1,VL059
+02/09/2024,Mini Cachepot Vela Sao Francisco,1,VL060
+02/09/2024,Vaso Coracao Nossa Vida  26x26,1,VS019
+02/09/2024,Vaso Redondo Frida Viva 20x20,1,VS022
+17/04/2024,Vaso Cogumelo Casa de Sentimentos bons,1,VSCGM002
+17/04/2024,Vaso Cogumelo Toda Familia historia,1,VSCGM003
+17/04/2024,Vaso Cogumelo Lar sentimento,1,VSCGM004
+17/04/2024,Vaso Cogumelo Abundancia,1,VSCGM005
